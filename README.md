@@ -1,17 +1,36 @@
-# Ciao, sono Singh Rohan Preet 
+# Ciao! 👋
 
-Sono uno **studente di Informatica** appassionato di programmazione, problem solving e logica computazionale. Questo spazio è il mio laboratorio digitale, dove pubblico i progetti universitari, gli esercizi di laboratorio e i miei esperimenti personali.
+Sono uno studente di Informatica e questo è l'inizio
+del mio portfolio tecnico.
 
-### 🎓 Il mio percorso accademico
-- 📚 Sto studiando **Informatica** presso **j.torriani**
-- 🧠 I miei campi di interesse principali sono **Sviluppo Web, Intelligenza Artificiale**
-- 🛠️ Al momento sto approfondendo:  Programmazione a algoritmi
+## 👤 Qualcosa su di me
+Sono Rohan Preet Singh, studente di iis torriani di cremona
+...
 
+## ❤️ Le mie passioni
 
-### 🎯 Obiettivi 
+- ... 
+- ...
+- ...
 
-- [ ] Imparare programmare
+## 💻 Tecnologia ed esperienze
 
+Ho già avuto occasione di utilizzare o conoscere:
 
+- ...
+- ...
+- ...
 
+## 🧠 Una cosa che potrei insegnare ai miei compagni
 
+...
+
+## 🔍 Cosa mi piacerebbe imparare
+
+...
+
+## 🚀 Un progetto che mi piacerebbe realizzare
+
+...
+
+## 🎯 Guardando al futuro
