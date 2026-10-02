@@ -1,4 +1,4 @@
-# Ciao, sono Singh Rohan Preet 👨‍💻 
+# Ciao, sono Singh Rohan Preet 
 
 Sono uno **studente di Informatica** appassionato di programmazione, problem solving e logica computazionale. Questo spazio è il mio laboratorio digitale, dove pubblico i progetti universitari, gli esercizi di laboratorio e i miei esperimenti personali.
 
