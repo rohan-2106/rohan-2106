@@ -4,7 +4,7 @@ Sono uno studente di Informatica e questo è l'inizio
 del mio portfolio tecnico.
 
 ## 👤 Qualcosa su di me
-📚 Sto studiando **[Informatica** presso **[j.torriani]**
+📚 Sto studiando Informatica presso j.torriani
 ...
 
 ## ❤️ Le mie passioni
