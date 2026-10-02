@@ -4,8 +4,8 @@ Sono uno **studente di Informatica** appassionato di programmazione, problem sol
 
 ### 🎓 Il mio percorso accademico
 - 📚 Sto studiando **Informatica** presso **j.torriani**
-- 🧠 I miei campi di interesse principali sono ** Sviluppo Web, Intelligenza Artificiale,**
-- 🛠️ Al momento sto approfondendo: **es. Programmazione a algoritmi**
+- 🧠 I miei campi di interesse principali sono **Sviluppo Web, Intelligenza Artificiale**
+- 🛠️ Al momento sto approfondendo:  Programmazione a algoritmi
 
 
 ### 🎯 Obiettivi 
