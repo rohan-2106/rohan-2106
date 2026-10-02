@@ -1,5 +1,5 @@
  Ciao, sono Singh Rohan Preet👨‍💻 / 👩‍💻
- Sono uno studente di Informatica appassionato di programmazione Questo spazio è il mio laboratorio digitale, dove pubblico gli esercizi di laboratorio e i miei esperimenti personali.
+ .-Sono uno studente di Informatica appassionato di programmazione Questo spazio è il mio laboratorio digitale, dove pubblico gli esercizi di laboratorio e i miei esperimenti personali.
 
 ### 🎓 Il mio percorso accademico
 - 📚 Sto studiando **[Informatica / Ingegneria Informatica]** presso **[j.torriani]**
